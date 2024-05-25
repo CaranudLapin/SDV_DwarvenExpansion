@@ -1,34 +1,33 @@
 {
     "Tools.DwarvenPickaxe.DisplayName": "Pioche naine",
     "Tools.DwarvenPickaxe.Description": "Une pioche efficace et légère. La magie naine lui confère naturellement la propriété Efficace.",
-    
+
     "Dialog.Dwarf.Event.Scroll_1_1": "Qu'est-ce que c'est ?",
     "Dialog.Dwarf.Event.Scroll_1_2": "Un humain !!",
     
     "Dialog.Dwarf.Event.Scroll_2_1": "Tu passes beaucoup de temps dans l'obscurité. Prends ceci.",
-    
+
     "Dialog.Dwarf.Event.Scroll_4_1": "Bonjour humain. J'ai un cadeau pour toi.",
     "Dialog.Dwarf.Event.Scroll_4_2": "Peut-être qu'un jour tu me comprendras et que tu achèteras mes affaires. Ma boutique est au-delà de cette pièce, à travers le couloir.",
-    
+
     "Dialog.Dwarf.Reaction.PickAxe_Event_1": "J'espère qu'elle te servira bien, humain.",
     "Dialog.Dwarf.Reaction.PickAxe_Event_2": "Il n'en a plus besoin, et j'ai le mien. Prends-la.",
     "Dialog.Dwarf.Reaction.PickAxe_Event_3": "Parce qu'elle est meilleure que tes outils humains.",
-    
+
     "Dialog.Player.Event.22021001.01": "Merci. C'est un honneur.",
     "Dialog.Player.Event.22021001.02": "Je ne peux pas prendre la pioche de ton père.",
     "Dialog.Player.Event.22021001.03": "Pourquoi voudrais-je cette vieille chose rouillée ?",
-    
+
     "Dialog.Dwarf.Event.22021001.01": "Bonjour humain. Je suis content de te revoir.",
     "Dialog.Dwarf.Event.22021001.02": "Tu passes beaucoup de temps dans ces mines. Je pense que nous pourrions être amis maintenant.",
     "Dialog.Dwarf.Event.22021001.03": "Prends ceci, s'il te plaît. C'est un outil fabriqué par mon peuple. Celui-ci a été utilisé par mon père pendant de nombreuses années.",
     "Dialog.Dwarf.Event.22021001.04": "Il devrait t'aider lorsque tu exploreras les endroits sombres sous la terre.",
-    
+
     "Mail.Dwarf.DwarfCooking.LetterText": "Humain,^Je souhaite partager l'un des plats de mon peuple.^J'espère que tu apprécieras ses saveurs.^- Ton ami dans la mine",
     "Mail.Dwarf.DwarfCooking.LetterName": "Recette naine",
-    
+
     "Animals_CrabEgg_Iridium.DisplayName": "Œuf de Crabe en Iridium",
     "Animals_CrabEgg_Iridium.Description": "Un œuf dur comme de la roche. ",
-    
     "IridiumCrab.DisplayName": "Crabe en iridium",
     "IridiumCrab.ShopDisplayName": "Crabe en iridium",
     "IridiumCrab.ShopDescription": "Les adultes font pousser du minerai sur leur coquille, qui peut être raclé avec des cisailles. Les crabes rocheux heureux produisent un métal extrêmement pur.",
@@ -37,7 +36,6 @@
     
     "Animals_CrabEgg_Gold.DisplayName": "Œuf de crabe en or",
     "Animals_CrabEgg_Gold.Description": "Un œuf dur comme de la roche. Légèrement doré.",
-    
     "GoldCrab.DisplayName": "Crabe en or",
     "GoldCrab.ShopDisplayName": "Crabe en or",
     "GoldCrab.ShopDescription": "Les adultes font pousser du minerai sur leur coquille, qui peut être raclé avec des cisailles. Les crabes rocheux heureux produisent un métal extrêmement pur.",
@@ -46,7 +44,6 @@
     
     "Animals_CrabEgg_Iron.DisplayName": "Œuf de crabe en fer",
     "Animals_CrabEgg_Iron.Description": "Un œuf dur comme de la roche. Légèrement gris.",
-    
     "IronCrab.DisplayName": "Crabe en fer",
     "IronCrab.ShopDisplayName": "Crabe en fer",
     "IronCrab.ShopDescription": "Les adultes font pousser du minerai sur leur coquille, qui peut être raclé avec des cisailles. Les crabes rocheux heureux produisent un métal extrêmement pur.",
@@ -55,7 +52,6 @@
     
     "Animals_CrabEgg_Copper.DisplayName": "Œuf de crabe en cuivre",
     "Animals_CrabEgg_Copper.Description": "Un œuf dur comme de la roche. Légèrement orange.",
-    
     "CopperCrab.DisplayName": "Crabe en cuivre",
     "CopperCrab.ShopDisplayName": "Crabe en cuivre",
     "CopperCrab.ShopDescription": "Les adultes font pousser du minerai sur leur coquille, qui peut être raclé avec des cisailles. Les crabes rocheux heureux produisent un métal extrêmement pur.",
@@ -64,22 +60,20 @@
     
     "Animals_GrubLarva.DisplayName": "Cocon de larve",
     "Animals_GrubLarva.Description": "Un petit amas de larves frétillantes. Placez-les dans une chambre d'incubation et elles se transformeront en larves.",
-    
     "FarmGrub.DisplayName": "Larve",
     "FarmGrub.ShopDisplayName": "Larve",
     "FarmGrub.ShopDescription": "Les larves ont une courte durée de vie, mais maintiennent leur population constante. Le résultat pour l'éleveur de larves en herbe est un approvisionnement régulier de viande légèrement répugnante !",
     "FarmGrub.ShopMissingBuildingDescription": "Les larves ne sont peut-être que des insectes, mais elles ont quand même besoin d'un endroit où vivre à l'abri des éléments si vous prévoyez de les élever.",
     "FarmGrub.BirthText": "Les larves grandissent !",
-    
+
     "GiantNakedMoleRat.DisplayName": "Rat-taupe nu géant",
     "GiantNakedMoleRat.ShopDisplayName": "Rat-taupe nu géant",
     "GiantNakedMoleRat.ShopDescription": "Le rat-taupe nu géant est la pierre angulaire de l'agriculture naine, étant l'un des rares mammifères souterrains domestiqués.",
     "GiantNakedMoleRat.ShopMissingBuildingDescription": "Pas de maison disponible pour ce rat-taupe.",
     "GiantNakedMoleRat.BirthText": "Un mignon petit rat-taupe ridé est né.",
-    
     "Meat_Molerat.DisplayName": "Viande de rat-taupe",
     "Meat_Molerat.Description": "Une viande légère, un peu sèche.",
-    
+
     "AlchemyBench.DisplayName": "Table d’alchimie naine",
     "AlchemyBench.Description": "Utilisez l'alchimie naine pour créer de puissants breuvages. Toutes les potions naines se font à partir de spiritueux nains infusés.",
     "AlchemyBench.Output.Envigorating_Concoction.ObjectDisplayName": "Concoction tonifiante",
@@ -89,55 +83,55 @@
     "DwarvenStill.DisplayName": "Alambic nain",
     "DwarvenStill.Description": "Distillez les esprits à la manière traditionnelle naine ! Avec des roches, des champignons fermentés, de la viande de ver pourrie et des carottes de caverne en décomposition.",
     "DwarvenStill.Output.Infused_Dwarven_Spirits.ObjectDisplayName": "{0} spiritueux",
-    
+
     "GemPolisher.DisplayName": "Polisseur de gemmes nain",
     "GemPolisher.Description": "Polit les gemmes taillées pour augmenter leur lustre et leur prix de vente.",
-    
+
     "JewelryMaker.DisplayName": "Fabricateur de bijoux nain",
     "JewelryMaker.Description": "Une machine qui utilise une technologie naine ancienne pour assembler des bijoux fins à partir de composants bruts.",
-    
+
     "Pulverizer.DisplayName": "Broyeur nain",
     "Pulverizer.Description": "Utilisé pour pulvériser des choses comme des carottes, de la pierre, des amas de minerai, des gemmes et de vieux artefacts.",
     "Pulverizer.Output.Gemstone_Dust.ObjectDisplayName": "{0} poussière de gemme",
-    
+
     "SlowburnCharcoalKiln.DisplayName": "Four à charbon à combustion lente",
     "SlowburnCharcoalKiln.Description": "Réduit les déchets en diminuant la chaleur nécessaire et en brûlant le combustible sur une période plus longue.",
-    
+
     "ImprovedMushroomBox.DisplayName": "Boîte à champignons avancée",
     "ImprovedMushroomBox.Description": "Une boîte de culture pour les champignons. Produira un approvisionnement régulier en champignons. Ne fonctionne pas à l'extérieur.",
-    
+
     "CaveIncubator.DisplayName": "Incubateur de grotte",
     "CaveIncubator.Description": "Un endroit sûr pour que les œufs de crabes et les larves grandissent jusqu'à leur taille adulte.",
-    
+
     "CaveCoop.Name": "Petite grotte",
     "CaveCoop.Description": "Une petite grotte artificielle. Parfait pour les créatures souterraines.",
-    
+
     "BigCaveCoop.Name": "Grotte moyenne",
     "BigCaveCoop.Description": "Une grotte artificielle. Parfait pour les créatures souterraines. Comprend un incubateur.",
-    
+
     "DeluxeCaveCoop.Name": "Grande grotte",
     "DeluxeCaveCoop.Description": "Une grande grotte artificielle. Parfait pour les créatures souterraines. Comprend un incubateur et une goulotte d'alimentation.",
-    
+
     "CaveShed.Name": "Cave à racines",
     "CaveShed.Description": "Une grande pièce souterraine. Traditionnellement utilisée pour stocker les légumes-racines.",
-    
+
     "LargeCaveShed.Name": "Grande cave à racines ",
     "LargeCaveShed.Description": "Une pièce souterraine plus grande. Traditionnellement utilisée pour stocker les légumes-racines.",
-    
+
     "DwarvenFurnace.Name": "Fourneau nain",
     "DwarvenFurnace.Description": "Un grand four, chauffé par la magie activée de l'essence solaire.",
-    
+
     "Cavern.Name": "Caverne",
     "Cavern.Description": "Une grande caverne sombre. Un foyer parfait pour les animaux souterrains de plus grande taille. Dispose d'un incubateur et d'une goulotte d'alimentation.",
 
     "CarrotMash.DisplayName": "Purée de carotte",
     "CarrotMash.Description": "Purée réalisée à partir de carottes de caverne et d'un champignon de caverne spécial.",
-    
+
     "Drinks_DwarvenSpirits.DisplayName": "Spiritueux nains",
     "Drinks_DwarvenSpirits.Description": "Spiritueux nains traditionnels. Pourquoi sont-ils verts ?",
     "Drinks_InfusedSpirits.DisplayName": "Spiritueux nains infusés",
     "Drinks_InfusedSpirits.Description": "Spiritueux nains infusés avec l'énergie magique de la terre profonde.",
-    
+
     "Potions_DistilledSunlight.DisplayName": "Rayons de soleil distillés",
     "Potions_DistilledSunlight.Description": "Une potion brassée à partir de rayons de soleil capturés au midi.",
     "Potions_FarmersDraught.DisplayName": "Breuvage de fermier",
@@ -154,7 +148,7 @@
     "Potions_SwordsmansElixir.Description": "Une boisson débordante de vitesse et de puissance. Le meilleur ami d'un guerrier.",
     "Potions_WoodmansTonic.DisplayName": "Tonique du bûcheron",
     "Potions_WoodmansTonic.Description": "La boisson magique qui sent la racine et la terre noire.",
-    
+
     "OreCluster_Copper.DisplayName": "Amas de cuivre",
     "OreCluster_Copper.Description": "Un amas de minerai de cuivre très pur.",
     "OreCluster_Iron.DisplayName": "Amas de fer",
@@ -233,6 +227,7 @@
     "Jewelry_N_StarShards.Description": "Un collier en or finement confectionné orné d'un morceau de minéral poli.",
     "Jewelry_N_Tigerseye.DisplayName": "Collier d’œil de tigre",
     "Jewelry_N_Tigerseye.Description": "Un collier en or finement confectionné orné d'un morceau de minéral poli.",
+    
     "Jewelry_R_Amethyst.DisplayName": "Anneau doré d’améthyste",
     "Jewelry_R_Amethyst.Description": "Une bague sertie finement confectionnée dans une monture en or.",
     "Jewelry_R_Aquamarine.DisplayName": "Anneau doré d’aquamarine",
@@ -252,7 +247,7 @@
     "Misc_NecklaceMold.Description": "Un moule en argile pour fabriquer des colliers basiques.",
     "Misc_GoldenChickenStatue.DisplayName": "Statue de poulet dorée",
     "Misc_GoldenChickenStatue.Description": "Une majestueuse statue dorée de poulet.",
-    
+
     "Food_SunshineStew.DisplayName": "Ragoût ensoleillé",
     "Food_SunshineStew.Description": "n ragoût léger imprégné de l'essence du soleil pour un coup de fraîcheur revigorant !",
     "Food_StonefishSuprise.DisplayName": "Souprise de poisson-pierre",
@@ -275,6 +270,8 @@
     "Food_CaveSoup.Description": "Soupe d'algues et de poissons. Légère mais savoureuse.",
     "Food_CaveChowder.DisplayName": "Chaudrée de caverne",
     "Food_CaveChowder.Description": "Une épais chaudrée de poisson avec des racines d'hiver pour la substance. Déjeuner traditionnel des familles minières naines.",
+    "Food_MeatyStew.DisplayName": "Ragoût de viande",
+    "Food_MeatyStew.Description": "Un ragoût épais de viande, traditionnellement fait à partir de viande de taupe-rat et d’algues mais qui peut être préparé à partir de n’importe quelle viande…",
     "Food_CaveCarrotAuGratin.DisplayName": "Gratin de carottes de caverne",
     "Food_CaveCarrotAuGratin.Description": "Un plat d'accompagnement de carottes de caverne tranchées traditionnellement préparé avec une portion de fromage au lait de rat-taupe.",
     "Food_CaveCarrotStew.DisplayName": "Ragoût de carottes de Caverne",
@@ -290,5 +287,5 @@
     "Food_BugMeatStew.DisplayName": "Ragoût de viande d'insecte",
     "Food_BugMeatStew.Description": "Un plat de base de viande d'insecte rôtie avec un glaçage de champignons et de limons.",
     "Food_BugMeatSoup.DisplayName": "Soupe de viande d'insecte",
-    "Food_BugMeatSoup.Description": "Une soupe huileuse renforcée de morceaux collants de viande d'insecte."
-  }
+    "Food_BugMeatSoup.Description": "Une soupe huileuse renforcée de morceaux collants de viande d'insecte.",
+}
